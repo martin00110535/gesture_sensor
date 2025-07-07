@@ -1,5 +1,5 @@
 {
-    "name": "testing",
+    "name": "testing - Copy",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -8,7 +8,9 @@
     },
     "files": [
         "main.ts",
-        "README.md"
+        "README.md",
+        "main.py",
+        "Tutorial.md"
     ],
     "testFiles": [
         "test.ts"
@@ -20,5 +22,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "pyprj"
 }
